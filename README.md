@@ -11,9 +11,9 @@ To install:
 
 Then add 'django_fastcgi' to your INSTALLED_APPS.
 
-Now you can use the manage.py fcgi command:
+Now you can use the manage.py command:
 
-`python manage.py fcgi`
+`python manage.py run_fcgi`
 
 
 Why would I want to use this?
