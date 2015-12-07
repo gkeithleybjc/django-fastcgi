@@ -1,7 +1,7 @@
 Django FastCGI
 --------------
 
-I took the FastCGI written by some developers who understand it a lot better than I do, and packaged it into a pip installable package.
+I took a FastCGI Django command written by some developers who understand it a lot better than I do, and packaged it into a pip installable package.
 
 All credit to original authors of the fcgi command:  Allan Saddi, Ruslan Keba, Antoine Martin
 
